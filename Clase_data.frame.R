@@ -6,7 +6,7 @@ Control <- c(1, 5, 9)
 T1 <- c(11,13,15)
 T2 <- c(20,29,30)
 
-#Crear un data frame 
+#Crear un data frame (marco de datos)
 firmeza_df <- data.frame(Control, T1, T2)
 
 #Mostrar en consola
