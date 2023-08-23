@@ -8,4 +8,4 @@ Ejercicios 3-4. Matrices y marco de datos
 
 Ejercicio 5. Media, mediana y moda
 
-Ejercicio 6-7. Unir tablas. Uso de merge
+Ejercicios 6-7. Unir tablas. Uso de merge
