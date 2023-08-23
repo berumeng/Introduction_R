@@ -7,3 +7,5 @@ Ejercicios 1-2. Creación de vectores
 Ejercicios 3-4. Matrices y marco de datos
 
 Ejercicio 5. Media, mediana y moda
+
+Ejercicio 6. Uso de merge
