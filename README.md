@@ -1,3 +1,3 @@
 # Introducción a R/Rstudio
 
-En este repositorio estarán contenidos todo el código que se utilice en la clase de análisis de datos biológicos de CBAP
+En este repositorio estarán contenidos todo los scripts utilizados en la clase de Análisis de Datos Biológicos de CBAP
