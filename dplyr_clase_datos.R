@@ -1,6 +1,12 @@
-setwd("/Users/berumen/Desktop/UAN/Clases/Posgrado/CBAP/2020/Análisis_visualización_datos_R/")
+#Establecer ruta de trabajo
+setwd("/Ruta/donde/estan/archivos/")
+
+#Uso de librería dplyr y tidyr
+#Cargar librerías
 library(dplyr)
 library(tidyr)
+
+#Usar el comando read.csv para leer el archivo de texto
 mydata = read.csv("sampledata.txt")
 
 #Ver cuantos datos tengo
@@ -31,7 +37,7 @@ mydata6=rename(mydata, Letras=Index)
 
 #uso de filter
 #Crear un nuevo marco de datos que contenga Las LETRAS A
-# DOBE IGUAL (==) es igual a, 
+# DOBE IGUAL (==) significa igual a, 
 mydata7= filter(mydata, Index=="A")
 
 #el operador %in% se usa para seleccionar múltiples elementos de fila
